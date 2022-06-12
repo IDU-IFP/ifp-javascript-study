@@ -11,6 +11,6 @@
 
 ### 참고 자료
 - [MDN](https://developer.mozilla.org/ko/)
-- [모던 JavaScript 튜토리얼](https://ko.javascript.info/)  
 - [Poiema Web](https://poiemaweb.com/) 
+- [모던 JavaScript 튜토리얼](https://ko.javascript.info/)  
 - [자바스크립트 개발자라면 알아야 할 33가지 개념](https://velog.io/@jakeseo_me/series/33conceptsofjavascript)   
